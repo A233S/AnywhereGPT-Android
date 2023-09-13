@@ -18,7 +18,7 @@ android {
         versionCode 1
         versionName "1.0.0"
 
-        buildConfigField "String", "end_point", '"https://api.openai.com/"'
+        buildConfigField "String", "end_point", '"http://oneapi.run.goorm.site/"'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
