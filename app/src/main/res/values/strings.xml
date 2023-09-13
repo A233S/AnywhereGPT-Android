@@ -2,7 +2,7 @@
     <string name="app_name">Anywhere GPT</string>
 
     <!-- Labels -->
-    <string name="label_app_version">App Version %s</string>
+    <string name="label_app_version"> </string>
     <string name="label_copy">Copy</string>
     <string name="label_share">Share</string>
     <string name="label_open_ai_key">OpenAI Key</string>
